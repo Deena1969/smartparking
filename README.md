@@ -3,8 +3,8 @@
 * [Description](#general-info)
 * [Tech Stack Used](#tech-stack)
 * [Run on local Machine](#run-locally)
-This is my comment added
-# Description
+
+## Description
 It provides a parking solution for both the owner and people trying to find a parking lot. 
 - For parking lot owners:   
 They can fill the details of their parking lot through a form. Once the parking lot is verified, admin can register the parking lot. Once it is live on website a mail will be sent to owner that can he can start accepting booking through website. Each time a new booking is there, a notification email will be sent to owner.
