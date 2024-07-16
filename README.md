@@ -3,7 +3,7 @@
 * [Description](#general-info)
 * [Tech Stack Used](#tech-stack)
 * [Run on local Machine](#run-locally)
-Hi there
+This is my comment added
 # Description
 It provides a parking solution for both the owner and people trying to find a parking lot. 
 - For parking lot owners:   
